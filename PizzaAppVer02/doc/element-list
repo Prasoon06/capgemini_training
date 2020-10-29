@@ -1,0 +1,8 @@
+com.capgemini.pizzaapp.dao
+com.capgemini.pizzaapp.daoimpl
+com.capgemini.pizzaapp.main
+com.capgemini.pizzaapp.model
+com.capgemini.pizzaapp.service
+com.capgemini.pizzaapp.serviceimpl
+com.capgemini.pizzaapp.test
+com.capgemini.pizzaapp.util
